@@ -10,7 +10,8 @@ This repository contains a Retrieval-Augmented Generation (RAG) chatbot designed
 
 ### Prepare the Dataset
 1. Ensure your dataset (`InfoHealthFood_20241225.xlsx`) is placed in the project directory.
- The dataset is sourced from the Taiwan Food and Drug Administration (TFDA) website: [https://consumer.fda.gov.tw/Food/InfoHealthFood.aspx?nodeID=162](https://consumer.fda.gov.tw/Food/InfoHealthFood.aspx?nodeID=162).2. The dataset should contain the following columns:
+ The dataset is sourced from the Taiwan Food and Drug Administration (TFDA) website: [https://consumer.fda.gov.tw/Food/InfoHealthFood.aspx?nodeID=162](https://consumer.fda.gov.tw/Food/InfoHealthFood.aspx?nodeID=162).
+2. The dataset should contain the following columns:
    - `許可證字號`: Product ID
    - `中文品名`: Product Name
    - `保健功效`: Health Benefits
